@@ -1,1 +1,1 @@
-# metro-counter
+In this project, inspired by one seen on Scrimba, we will build an app that count the number of people who enter a metro station. It will have some CSS but of course some Javascript code as well.
